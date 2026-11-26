@@ -1,0 +1,116 @@
+[
+  {
+    "id": "CTL-001",
+    "name": "Board-approved ICT risk framework",
+    "owner": "CRO office",
+    "status": "implemented",
+    "last_tested": "2026-06-10",
+    "maps_to": [
+      "ICT-05",
+      "ICT-06"
+    ]
+  },
+  {
+    "id": "CTL-002",
+    "name": "Critical asset inventory",
+    "owner": "Head of IT Ops",
+    "status": "implemented",
+    "last_tested": "2026-04-02",
+    "maps_to": [
+      "ICT-08"
+    ]
+  },
+  {
+    "id": "CTL-003",
+    "name": "Privileged access and segmentation",
+    "owner": "CISO",
+    "status": "implemented",
+    "last_tested": "2026-08-14",
+    "maps_to": [
+      "ICT-07",
+      "ICT-09"
+    ]
+  },
+  {
+    "id": "CTL-004",
+    "name": "24x7 SOC detection",
+    "owner": "CISO",
+    "status": "implemented",
+    "last_tested": "2026-09-01",
+    "maps_to": [
+      "ICT-10"
+    ]
+  },
+  {
+    "id": "CTL-005",
+    "name": "DR failover runbooks",
+    "owner": "Head of Resilience",
+    "status": "implemented",
+    "last_tested": "2025-05-20",
+    "maps_to": [
+      "ICT-11"
+    ]
+  },
+  {
+    "id": "CTL-006",
+    "name": "Immutable backup and restore test",
+    "owner": "",
+    "status": "implemented",
+    "last_tested": "2026-02-11",
+    "maps_to": [
+      "ICT-12"
+    ]
+  },
+  {
+    "id": "CTL-007",
+    "name": "Incident classification playbook",
+    "owner": "CISO",
+    "status": "implemented",
+    "last_tested": "2026-07-07",
+    "maps_to": [
+      "INC-17",
+      "INC-18"
+    ]
+  },
+  {
+    "id": "CTL-008",
+    "name": "Regulator notification workflow",
+    "owner": "",
+    "status": "in_progress",
+    "last_tested": null,
+    "maps_to": [
+      "INC-19"
+    ]
+  },
+  {
+    "id": "CTL-009",
+    "name": "Annual scenario testing",
+    "owner": "Head of Resilience",
+    "status": "implemented",
+    "last_tested": "2026-05-30",
+    "maps_to": [
+      "TST-24",
+      "TST-25"
+    ]
+  },
+  {
+    "id": "CTL-010",
+    "name": "Third-party register",
+    "owner": "Head of Procurement",
+    "status": "implemented",
+    "last_tested": "2026-09-30",
+    "maps_to": [
+      "TPR-28"
+    ]
+  },
+  {
+    "id": "CTL-011",
+    "name": "Contract clause baseline",
+    "owner": "Legal",
+    "status": "in_progress",
+    "last_tested": "2026-03-01",
+    "maps_to": [
+      "TPR-30"
+    ]
+  }
+]

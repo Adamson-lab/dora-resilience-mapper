@@ -1,0 +1,7 @@
+[project]
+name = "dora-resilience-mapper"
+version = "0.1.0"
+requires-python = ">=3.9"
+description = "DORA requirement to control mapping, evidence-freshness checks and coverage diagrams"
+[project.scripts]
+doramap = "doramap.cli:main"

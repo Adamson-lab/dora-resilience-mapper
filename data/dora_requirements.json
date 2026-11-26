@@ -1,0 +1,122 @@
+[
+  {
+    "pillar": "ICT risk management",
+    "id": "ICT-05",
+    "article": "Art 5",
+    "title": "Governance and organisation"
+  },
+  {
+    "pillar": "ICT risk management",
+    "id": "ICT-06",
+    "article": "Art 6",
+    "title": "ICT risk management framework"
+  },
+  {
+    "pillar": "ICT risk management",
+    "id": "ICT-07",
+    "article": "Art 7",
+    "title": "ICT systems, protocols and tools"
+  },
+  {
+    "pillar": "ICT risk management",
+    "id": "ICT-08",
+    "article": "Art 8",
+    "title": "Identification of assets"
+  },
+  {
+    "pillar": "ICT risk management",
+    "id": "ICT-09",
+    "article": "Art 9",
+    "title": "Protection and prevention"
+  },
+  {
+    "pillar": "ICT risk management",
+    "id": "ICT-10",
+    "article": "Art 10",
+    "title": "Detection"
+  },
+  {
+    "pillar": "ICT risk management",
+    "id": "ICT-11",
+    "article": "Art 11",
+    "title": "Response and recovery"
+  },
+  {
+    "pillar": "ICT risk management",
+    "id": "ICT-12",
+    "article": "Art 12",
+    "title": "Backup and restoration"
+  },
+  {
+    "pillar": "ICT risk management",
+    "id": "ICT-13",
+    "article": "Art 13",
+    "title": "Learning and evolving"
+  },
+  {
+    "pillar": "ICT risk management",
+    "id": "ICT-14",
+    "article": "Art 14",
+    "title": "Communication"
+  },
+  {
+    "pillar": "Incident reporting",
+    "id": "INC-17",
+    "article": "Art 17",
+    "title": "Incident management process"
+  },
+  {
+    "pillar": "Incident reporting",
+    "id": "INC-18",
+    "article": "Art 18",
+    "title": "Incident classification"
+  },
+  {
+    "pillar": "Incident reporting",
+    "id": "INC-19",
+    "article": "Art 19",
+    "title": "Major incident reporting"
+  },
+  {
+    "pillar": "Resilience testing",
+    "id": "TST-24",
+    "article": "Art 24",
+    "title": "General testing programme"
+  },
+  {
+    "pillar": "Resilience testing",
+    "id": "TST-25",
+    "article": "Art 25",
+    "title": "Testing tools and methods"
+  },
+  {
+    "pillar": "Resilience testing",
+    "id": "TST-26",
+    "article": "Art 26",
+    "title": "Threat-led penetration testing"
+  },
+  {
+    "pillar": "Third-party risk",
+    "id": "TPR-28",
+    "article": "Art 28",
+    "title": "Register of information"
+  },
+  {
+    "pillar": "Third-party risk",
+    "id": "TPR-EXIT",
+    "article": "Art 28(8)",
+    "title": "Exit strategies"
+  },
+  {
+    "pillar": "Third-party risk",
+    "id": "TPR-30",
+    "article": "Art 30",
+    "title": "Key contractual provisions"
+  },
+  {
+    "pillar": "Information sharing",
+    "id": "INF-45",
+    "article": "Art 45",
+    "title": "Threat intelligence sharing"
+  }
+]

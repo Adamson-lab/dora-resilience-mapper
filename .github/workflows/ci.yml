@@ -1,0 +1,16 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  test-and-report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: python -m unittest discover tests
+      - run: python -m doramap report --out docs/sample_report.md
+      - uses: actions/upload-artifact@v4
+        with: {name: dora-report, path: docs/sample_report.md}
+      - name: Gate on critical gaps (make blocking once your data is real)
+        run: python -m doramap gaps --fail-on-gaps
+        continue-on-error: true
